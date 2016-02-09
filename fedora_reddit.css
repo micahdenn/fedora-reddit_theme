@@ -41,3 +41,5 @@
 .footer-parent { height: 252px; margin-top: 120px; padding: 1px 0px 64px; }
 .footer { background-color: #fff; }
 .flat-vert.title { color: #777; }
+
+.commentarea .usertext-edit textarea { z-index: 0; }
