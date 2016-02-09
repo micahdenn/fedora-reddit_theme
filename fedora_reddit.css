@@ -43,3 +43,5 @@
 .flat-vert.title { color: #777; }
 
 .commentarea .usertext-edit textarea { z-index: 0; }
+
+.search-page #header-bottom-left { top: -35px; }
