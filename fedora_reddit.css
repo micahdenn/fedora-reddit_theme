@@ -27,7 +27,7 @@
 .pagename a { background: transparent url(%%title%%) no-repeat scroll 0% 0% !important; display: inline-block; width: 290px; height: 65px; text-indent: -9999px; margin-bottom: 140px;}
 #header-bottom-left { top: 57px; left: 0px;}
 .submit-page #header-bottom-left { top: 57px!important; left: 0px!important; margin-left: 0px!important;}
-#header-img.default-header, #header-img {background: url(%%alien%%) no-repeat 0px 0px; height: 200px; width: 104px; vertical-align: bottom; background-position: 0px 115px !important; margin-bottom: 5px; margin-right: 30px; margin-left: -20px; }
+#header-img.default-header, #header-img {background: url(%%alien%%) no-repeat 0px 0px; height: 0px; padding-top: 200px; width: 0px; padding-left: 104px; vertical-align: bottom; background-position: 0px 115px !important; margin-bottom: 5px; margin-right: 30px; margin-left: -20px; }
 #header-img.default-header:hover, #header-img:hover {background-position: 0px 0px;}
 
 .thing.link.stickied a.title, .thing.link.stickied a, .thing.link.stickied .entry li .comments { color: #294172 !important; }
